@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import entidadesBaralho;
 import emtidades.Carta;
 import entidades.Jogador;
-import entidades.models.Jogo;
+import entidades.Jogo;
 
 
 public class JogoTest {

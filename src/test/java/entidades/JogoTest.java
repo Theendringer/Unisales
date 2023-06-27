@@ -1,6 +1,6 @@
 package teste;
 
-iimport static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Iterator;
 

@@ -12,8 +12,8 @@ public class CartaTest {
     @Test
 	public void PesoDaCartaCorreto() {
 		Baralho baralho = new Baralho();
-		Carta carta = baralho.obterCarta("C", "11");
-		assertEquals(carta.getPeso(), 10);
+		Carta carta = baralho.obterCarta("C", "10");
+		assertEquals(carta.getPeso(), 11);
 	}
     
 }
